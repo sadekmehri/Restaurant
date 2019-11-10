@@ -1,0 +1,4 @@
+This Application should be Under C:\xampp\htdocs\Test\ to work Perfectly
+Admin side :
+Email : xxxx@gmail.com
+Pass  : admin

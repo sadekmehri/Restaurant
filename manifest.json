@@ -1,0 +1,19 @@
+{
+    "short_name": "Restaurent",
+    "name": "Restaurent",
+    "icons": [
+        {
+            "src": "./photo/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./photo/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#35495e",
+    "background_color": "#35495e",
+	"start_url": "./index.php"
+}
